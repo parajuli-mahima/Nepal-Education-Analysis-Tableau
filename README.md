@@ -23,10 +23,4 @@ This Tableau dashboard analyzes education inequality across Nepal using interact
 - CSV Dataset
 - Data Visualization
 
----
-
-## Dashboard Preview
-
-![Dashboard](<img width="1918" height="985" alt="Dashboard" src="https://github.com/user-attachments/assets/de88bd68-f313-4518-86e2-3abb940e288b" />
-)
 
